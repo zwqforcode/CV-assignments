@@ -8,6 +8,7 @@ The total 7 questions' results in report were got all from:
 4. "transfer.py"
 5. "CAM.ipynb"
 
-The dataset file path is "./cifar-10-python/cifar-10-batches-py"
-The other data file--"train_feat_my.npy","train_feat_in.npy","test_feat_my.npy","test_feat_in.npy" were the hog features extracted by "checkpoints.ipynb"
-The model file---"mymodel.pth" was saved by "CNN.py" and "trans_alex.pth" was saved by "transfer.py"
+## Other data files
+1. The dataset file path is "./cifar-10-python/cifar-10-batches-py"
+2. The other data file--"train_feat_my.npy","train_feat_in.npy","test_feat_my.npy","test_feat_in.npy" were the hog features extracted by "checkpoints.ipynb"
+3. The model file---"mymodel.pth" was saved by "CNN.py" and "trans_alex.pth" was saved by "transfer.py"
